@@ -1,0 +1,36 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "HTML i CSS",
+      "duration": "10 hores",
+      "level": "Principiant"
+    },
+    {
+      "id": "2",
+      "name": "JavaScript Avançat",
+      "duration": "15 hores",
+      "level": "Intermedi"
+    },
+    {
+      "id": "3",
+      "name": "Asignatura DWEC",
+      "duration": "1 any",
+      "level": "Avançat"
+    }
+  ],
+  "courses_original": [
+    {
+      "id": "1",
+      "name": "HTML i CSS",
+      "duration": "10 hores",
+      "level": "Principiant"
+    },
+    {
+      "id": "2",
+      "name": "JavaScript Avançat",
+      "duration": "15 hores",
+      "level": "Intermedi"
+    }
+  ]
+}
